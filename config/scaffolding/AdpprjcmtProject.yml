@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: AdpprjcmtProject
+  gitServerName: sesm
+  gitUrl: https://github.com/Sephali-Smrutisikha-IBM-1
+  gitUsername: Sephali-Smrutisikha-IBM-1
+  gitBranch: main
